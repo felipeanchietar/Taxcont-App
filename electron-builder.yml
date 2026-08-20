@@ -41,4 +41,4 @@ npmRebuild: false
 publish:
   provider: github
   owner: felipeanchietar
-  repo: taxcont-app
+  repo: Taxcont-App
